@@ -1,0 +1,9 @@
+# scratch files used to build the lyrics (perl scripts, LRCLIB json, backups).
+# not part of the app, so they stay out of the repo you share.
+.work/
+
+# editor/agent scratch and the throwaway deploy copy
+dist/
+.freebuff/
+.cloud-attachments/
+.vscode/
